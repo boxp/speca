@@ -1,3 +1,7 @@
 exint
 exit
 console
+android:debug
+help
+android:install-debug
+android:install-device
